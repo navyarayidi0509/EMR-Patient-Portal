@@ -1,4 +1,4 @@
-const BASE = "http://localhost:3000/api"; // base URL for API
+const BASE = "https://emr-patient-portal.vercel.app/api"; // base URL for API
 
 let token: string | null = null; // store the current auth token
 
